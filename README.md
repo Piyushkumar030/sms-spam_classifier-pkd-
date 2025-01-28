@@ -128,7 +128,7 @@ Streamlit also automatically takes care of responsiveness, making the app easy t
 ## 💬 Contact & Support
 Feel free to reach out if you have any questions, feedback, or suggestions. You can contact me through:
 
-- **Email**: [E-mail](piyushmgm2000@gmail.com)
+- **Email**: [E-mail](mailto:piyushmgm2000@gmail.com)
 - **LinkedIn**: [@linkedin Piyush Kumar Dey](https://linkedin.com/in/piyush-kumar-dey-291b19342)
 - **GitHub**: [@GitHub Piyush Kumar Dey](https://github.com/Piyushkumar030)
 
