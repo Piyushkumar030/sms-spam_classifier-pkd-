@@ -3,7 +3,7 @@ The SMS Spam Classifier is a machine learning project designed to detect spam me
 
 
 ``` 
-# SMS/E-mail Spam Classifier
+# SMS/E-mail Spam Classifier 
  
 ## 📚 Project Overview
 The **SMS/E-mail Spam Classifier** is a machine learning project that predicts whether a given SMS or e-mail is spam or not. Using Natural Language Processing (NLP) and a trained classification model, this project can filter out unwanted messages, helping users identify spam content effectively. It’s implemented with **Streamlit** for real-time predictions via an easy-to-use web interface.
